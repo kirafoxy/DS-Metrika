@@ -1,0 +1,166 @@
+
+body{
+    font-family: 'Manrope';
+    width: 1400px;
+    height: 7211px;
+    padding: 0 auto;
+    margin: 0 auto;
+    
+    
+   
+}
+.page{
+    margin-left: 125px;
+}
+
+h1{
+    margin-top: 128px;
+    margin-bottom: 30px;
+    width: 990px;
+    height: 120px;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    
+}
+.title-container{
+    position: relative;
+    width: 1150px;
+    height: 500px;
+    background-image: url(../images/Rectangle\.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    
+}
+.title-container p{
+    position: absolute;
+    padding-top: 379px;
+    padding-left: 40px;
+    width: 500px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    color: #FFFFFF;
+   
+}
+.subtitle-container{
+    margin-bottom: 280px; 
+    width: 1055px;
+    height: 400px;
+    font-size: 40px;
+    line-height: 62px;
+}
+
+.projects-container{
+    margin-bottom: 150px;
+}
+
+h2{
+    padding-top: 150px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: -0.54px;
+    line-height: 24.59px;
+}
+
+h3{
+    font-weight: 400;
+    font-size: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px; 
+    letter-spacing: -0.9px;
+    
+}
+
+.link{
+    margin-bottom: 90px;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.button{
+    margin-top: 30px;
+    width: 255px;
+    height: 67px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    background-color: #AD1818;
+    color:#FFFFFF;
+    
+}
+.button:hover{
+    color: #ad1818;
+    background-color: #ffffff;
+    border: 1px solid #AD1818;
+    
+}
+
+.items-container{
+    height: 2122px;
+    margin-left: 125px;
+}
+.btn-project{
+    display: block;
+    width: 1150px;
+    height: 153px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 153px;
+    border: 1px solid #AD1818;
+    color: #AD1818;
+    border-radius: 5px;
+    
+}
+.btn-project:hover{
+    color: #ffffff;
+    background-color:#ad1818;
+}
+
+.services-container{
+    background-color: black;
+    color: #FFFFFF;
+}
+.services{
+    margin-top: 150px;
+    margin-left: 125px;
+    margin-top: 15px;
+    line-height: 40px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.services h3{
+    padding-bottom: 60px;
+    padding-top: 15px;
+}
+.services h3:last-child {
+    padding-bottom: 150px;
+}
+
+.container-full-img{
+    box-sizing: border-box;
+    position: relative;
+    background-image: url('../images/Rectangle9.png');
+    height: 717px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.container-full-img-text{
+    position: absolute;
+    padding-left: 125px;
+    padding-top: 575px;
+    width: 550px;
+    Height:82px;
+    font-size: 30px;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 41px;
+    
+}
