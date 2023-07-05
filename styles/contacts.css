@@ -1,0 +1,50 @@
+.contacts{
+    /* margin-bottom: 150px;  */
+    height: 400px;
+}
+
+.contacts h2{
+    padding-top: -5px;
+    
+}
+.contacts h2:before{
+
+    margin-bottom: 12px; 
+    content: '';
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url(../images/Vector@2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.contacts-wrapper{
+    display: block;
+    width: 473px;
+    height: 300px;
+    letter-spacing: -0.9px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.number-contact{
+    margin-bottom: 15px;
+    display: block;
+    cursor: pointer;
+    color: #121212;
+    
+
+}
+.mail-contact{
+    display: block;
+    color: #121212;
+    line-height: 100px;
+    letter-spacing: -1.6px;
+
+    
+}
+.mail-contact:hover{
+    text-decoration: underline;
+    color: #b8b7b6;
+
+}
