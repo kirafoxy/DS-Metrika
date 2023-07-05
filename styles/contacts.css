@@ -45,6 +45,8 @@
 }
 .mail-contact:hover{
     text-decoration: underline;
+     text-underline-offset:10px;
     color: #b8b7b6;
+    
 
 }
