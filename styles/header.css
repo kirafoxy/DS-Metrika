@@ -1,5 +1,4 @@
 .header{
-    display: flex;
     height: 25px;
 }
 .header-wrapper{
@@ -8,6 +7,7 @@
 }
 
 .header_logo{
+    display: inline-block;
     padding-top: 32px;
     width: 126px;
     height: 21px;
@@ -15,6 +15,8 @@
 }
 
 .header-links{
+    padding-top: 33px;
+    display: inline-block;
     padding-left: 559px;
     line-height: 25px;
     float: right;
