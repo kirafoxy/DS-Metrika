@@ -13,6 +13,7 @@
 .introduction-img{
     position: relative;
     height: 500px;
+    min-width: 1150px;
     background-image: url(../images/Rectangle.png);
     background-repeat: no-repeat;
 }
