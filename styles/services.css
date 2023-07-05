@@ -1,0 +1,32 @@
+.services{
+    margin: 0 auto;
+    background-color: #121212;
+    color: #ffffff;
+    padding-bottom: 150px;
+    
+    
+    
+}
+.services h2{
+    padding-top: 150px;
+}
+.services-img{
+    width: 1150px;
+    height: 270px;
+    margin-bottom: 15px;
+}
+
+.services-text{
+    width: 668px;
+    height: 41px;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: -0.9px;
+    line-height: 40.98px;
+    margin-bottom: 60px;
+    padding-left: 3px;
+}
+.services-text:last-child{
+    margin-bottom: 0px;
+}
+

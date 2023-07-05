@@ -1,0 +1,30 @@
+.introduction{
+    margin-top: 70px;
+}
+
+.introduction-title{
+    margin-bottom: 30px;
+    width: 956px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+}
+.introduction-img{
+    position: relative;
+    height: 500px;
+    background-image: url(../images/Rectangle.png);
+    background-repeat: no-repeat;
+}
+
+.introduction-img-text{
+    position: absolute;
+    padding-top: 409px;
+    padding-left: 40px;
+    display: flex;
+    width: 430px;
+    color: #FFFFFF;
+    font-size: 19px;
+    font-weight: 200;
+    letter-spacing: -0.6px;
+}
