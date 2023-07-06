@@ -1,4 +1,4 @@
-.project-img{
+.project__img{
     width: 1150px;
     height: 450px;
     margin-bottom: 188px;
@@ -9,7 +9,7 @@
     font-size: 20px;
 }
 
-.project-title{
+.project__title{
     font-weight: 400;
     margin-top: 13px;
     font-size: 30px;
@@ -19,7 +19,7 @@
     
 }
 
-.btn-project{
+.project__btn{
    margin-bottom: 150px;
     display: block;
     width: 1150px;
@@ -33,7 +33,7 @@
     border-radius: 5px;
 }
 
-.btn-project:hover{
+.project__btn:hover{
     color: #ffffff;
     background-color:#ad1818;
 }
