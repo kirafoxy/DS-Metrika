@@ -31,6 +31,7 @@
     border: 1px solid #AD1818;
     color: #AD1818;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .project__btn:hover{
