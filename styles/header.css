@@ -24,15 +24,15 @@
     
 }
 .header-link-one{
-    padding-right: 62px;
+    margin-right: 62px;
 }
 .header-link-two{
-    padding-right: 62px;
+    margin-right: 62px;
     
 }
 
 .header-link-three{
-    padding-right: 58px;
+    margin-right: 58px;
 }
  .header-link-four{
     letter-spacing: 1px;
@@ -50,6 +50,5 @@
 }
 .header-link:hover{
     color: #9b9b9b;
-    text-decoration: underline;
-     text-underline-offset:8px;
-}
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+	opacity: 0.5;
