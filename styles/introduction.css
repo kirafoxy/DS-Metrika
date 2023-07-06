@@ -1,5 +1,5 @@
 
-.introduction-title{
+.introduction__title{
     margin-top: -47px; 
     margin-bottom: 30px;
     width: 956px;
@@ -8,7 +8,7 @@
     line-height: 60px;
     letter-spacing: -1.8px;
 }
-.introduction-img{
+.introduction__img{
 
     position: relative;
     background-image: url(../images/Rectangle.png);
@@ -17,7 +17,7 @@
     background-repeat: no-repeat;
 }
 
-.introduction-img-text{
+.introduction__img-text{
     position: absolute;
     padding-top: 378px;
     padding-left: 40px;
