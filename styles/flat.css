@@ -1,4 +1,4 @@
-.flat-img{
+.flat__img{
     margin: 0 auto;
     margin-bottom: 150px;
     position: relative;
@@ -10,7 +10,7 @@
     background-position: 50%;
 
 }
-.flat-img-text{
+.flat__img-text{
     padding-top: 578px;
     position: absolute;
     display: flex;
