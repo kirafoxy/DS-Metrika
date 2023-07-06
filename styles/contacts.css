@@ -19,7 +19,7 @@
     background-size: contain;
 
 }
-.contacts-wrapper{
+.contacts__wrapper{
     display: block;
     width: 473px;
     height: 300px;
@@ -27,7 +27,7 @@
     font-size: 60px;
     font-weight: 400;
 }
-.number-contact{
+.number__contact{
     margin-bottom: 15px;
     display: block;
     cursor: pointer;
@@ -35,7 +35,7 @@
     
 
 }
-.mail-contact{
+.mail__contact{
     display: block;
     color: #121212;
     line-height: 100px;
@@ -43,7 +43,7 @@
 
     
 }
-.mail-contact:hover{
+.mail__contact:hover{
     text-decoration: underline;
      text-underline-offset:10px;
     color: #b8b7b6;
