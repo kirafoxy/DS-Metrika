@@ -36,7 +36,6 @@
 
 }
 .number__contact:hover{
-    color: #9b9b9b;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     opacity: 0.5;
 }
@@ -45,7 +44,7 @@
     display: inline-block; 
 }
 .mail__contact:hover{
-    color: #9b9b9b;
+
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     opacity: 0.5;
 }
