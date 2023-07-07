@@ -28,25 +28,27 @@
     font-weight: 400;
 }
 .number__contact{
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     display: block;
     cursor: pointer;
     color: #121212;
     
 
 }
+.number__contact:hover{
+    color: #9b9b9b;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+	opacity: 0.5;
+}
 .mail__contact{
     display: block;
     color: #121212;
-    line-height: 100px;
-    letter-spacing: -1.6px;
+  
 
     
 }
 .mail__contact:hover{
-    text-decoration: underline;
-     text-underline-offset:10px;
-    color: #b8b7b6;
-    
-
+    color: #9b9b9b;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+	opacity: 0.5;
 }
