@@ -41,8 +41,8 @@
     opacity: 0.5;
 }
 .mail__contact{
-color: #121212;
-  
+    color: #121212;
+    display: inline-block; 
 }
 .mail__contact:hover{
     color: #9b9b9b;
