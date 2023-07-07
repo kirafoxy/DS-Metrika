@@ -1,7 +1,7 @@
 .flat__img{
+    position: relative;
     margin: 0 auto;
     margin-bottom: 150px;
-    position: relative;
     background-image: url(../images/Rectangle9.png);
     height: 717px;
     min-width: 1400px;
@@ -11,8 +11,8 @@
 
 }
 .flat__img-text{
-    padding-top: 578px;
     position: absolute;
+    top: 578px;
     display: flex;
     width: 430px;
     font-size: 30px;
