@@ -13,7 +13,6 @@
 .flat__img-text{
     position: absolute;
     top: 578px;
-    display: flex;
     width: 430px;
     font-size: 30px;
     font-weight: 400;
