@@ -10,7 +10,6 @@
 
 .footer__link{
     font-size: 18px;
-    font-weight: 400;
     letter-spacing: -0.54px;
     line-height: 95px;
     
@@ -20,7 +19,6 @@
     margin-top: 30px;
     position: absolute;
     display: flex;
-    height: 25px;
     padding-left: 345px;
 
 }
