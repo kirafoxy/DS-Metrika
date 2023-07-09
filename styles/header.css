@@ -2,7 +2,7 @@
 .header-wrapper{
     display: block;
     width: 1151px;
-    height: 25px;
+   
 }
 
 .header_logo{
@@ -16,7 +16,6 @@
 .header-links{
     display: block;
     padding-top: 33px;
-    padding-left: 559px;
     line-height: 25px;
     float:right;
     
@@ -40,18 +39,12 @@
 } 
 
 .header_link{
-    font-size: 22px;
-    letter-spacing: -0.54px;
-
-}
-
-.header-link{
-    color: #121212;
+   color: #121212;
 }
 
 .header-link:hover{
     color: #9b9b9b;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
-	opacity: 0.5;
-    
-} 
+    opacity: 0.5;
+}
+
