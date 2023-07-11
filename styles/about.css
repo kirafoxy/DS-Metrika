@@ -1,0 +1,29 @@
+
+.about__text{
+    margin-bottom: 30px;
+    padding-left: 3px;
+    width: 1048px;
+    font-size: 45px;
+    letter-spacing: -1.35px;
+    line-height: 60px;
+}
+
+.button{
+    /* margin-top: 30px; */
+    width: 255px;
+    height: 67px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #AD1818;
+    color:#FFFFFF;
+    line-height: 67px;
+    cursor: pointer;
+}
+        
+    
+.button:hover{
+    color: #ad1818;
+    background-color: #ffffff;
+    border: 1px solid #AD1818;
+}
