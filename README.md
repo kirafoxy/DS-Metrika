@@ -51,7 +51,7 @@
         <li>html</li>
         <li>css</li>
     </ul>
-    <p> Данный макет также был использован для изучения и демонстрации навыков <a href="https://github.com/kirafoxy/DS-Metrika-adaptive">метода адптивной верстки </a> и использования <a href="https://github.com/kirafoxy/React-metrica">React.js</a></p>
+    <p> Данный макет также был использован для изучения и демонстрации навыков <a href="https://github.com/kirafoxy/DS-Metrika-adaptive">метода адаптивной верстки </a> и использования <a href="https://github.com/kirafoxy/React-metrica">React.js</a></p>
 
 </body>
 </html>
