@@ -16,6 +16,7 @@
     <div style="font-family: 'Montserrat';">
         <a href="https://www.figma.com/file/WjUv8i6TYmndKy7eCKx09y/SD-%D0%A1ode-%E2%80%94-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80%D0%B0-(Copy)?type=design&node-id=1-8&mode=design&t=DBfzCgWt1QISqJoV-0 "> 
           Ссылка на макет данного сайта</a>
+        <br/>
  <a href="https://kirafoxy.github.io/DS-Metrika/"> 
           Ссылка на сайта</a>
     </div>
